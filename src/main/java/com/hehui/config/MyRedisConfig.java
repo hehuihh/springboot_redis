@@ -25,6 +25,7 @@ public class MyRedisConfig extends CachingConfigurerSupport {
 
 	/**
 	 * 重写生成key的方法：类名+方法名+参数名
+	 *  update master
 	 */
 	@Bean
 	@Override

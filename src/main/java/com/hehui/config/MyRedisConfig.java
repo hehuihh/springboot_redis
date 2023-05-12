@@ -13,6 +13,7 @@ import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.serializer.GenericJackson2JsonRedisSerializer;
 
 /**
+update hehui-2 online
  * 自定义redis配置
  * @author hehui 
  * @date 2019年3月12日

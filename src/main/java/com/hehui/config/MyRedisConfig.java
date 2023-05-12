@@ -29,6 +29,7 @@ public class MyRedisConfig extends CachingConfigurerSupport {
 	 *  update master
 	 *  update hehui-2
 	 update-hehui-2 online
+	 *  update hehui-dev
 	 */
 	@Bean
 	@Override
